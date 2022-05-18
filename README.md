@@ -35,7 +35,7 @@ Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/latihan2.php?nam
 
 
 Membuat Form Input
-Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/from_input.php
+Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/form_input.php
 <img width="960" alt="php9" src="https://user-images.githubusercontent.com/101730390/169089237-4be2fff8-0a74-4491-9714-831cdc8c8baf.png">
 
 
@@ -77,5 +77,5 @@ Jawaban
 
 
 Hasil browser
-Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/from_input2.php
+Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/form_input2.php
 <img width="960" alt="php18" src="https://user-images.githubusercontent.com/101730390/169092804-9503bf3e-ac8d-4e3d-8889-8d04dc86a9f4.png">
